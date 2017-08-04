@@ -1,5 +1,5 @@
 # JSM2018_ecosystem
-Slides and materials for JSM 2018 "An Emerging Ecosystem for Data Science/Statistics Education" Session. <bit.ly/2018JSM_ecosystem> redirects here.
+Slides and materials for JSM 2018 "An Emerging Ecosystem for Data Science/Statistics Education" Session. <http://bit.ly/2018JSM_ecosystem> redirects here.
 
 ## Slides
 
