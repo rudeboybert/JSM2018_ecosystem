@@ -11,3 +11,10 @@ Slides and materials for JSM 2018 "An Emerging Ecosystem for Data Science/Statis
     + GitHub: <https://github.com/rudeboybert>
     + Twitter: <https://twitter.com/rudeboybert>
     
+* Chester Ismay
+    + Title: Data Science Curriculum Lead
+    + Affiliation: DataCamp (headquarters in New York City, based in Portland, OR)
+    + Email: <chester@datacamp.com>
+    + Webpage: <https://chester.rbind.io>
+    + GitHub: <https://github.com/ismayc>
+    + Twitter: <https://twitter.com/old_man_chester>
