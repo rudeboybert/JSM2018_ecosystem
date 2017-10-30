@@ -22,6 +22,9 @@ Slides and materials for JSM 2018 "An Emerging Ecosystem for Data Science/Statis
 * Alicia Johnson
     + Affiliation: Macalester College
 
+* Andrew Bray
+    + Affiliation: Reed College
+
 * Jennifer Bryan
     + Affiliation: RStudio, University of British Columbia
 
@@ -36,6 +39,10 @@ Data science is a relatively new and fast-changing field that borrows from many 
 ### Authoring and Utilizing Open Source, Reproducible Statistics/Data Science Textbooks - Alicia Johnson
 
 Open source, open access, and reproducible materials are essential to the modern practice of statistics and data science. Combined, these provide (free!) code, data, and software that users can directly implement, modify, and use to verify findings. In this talk we will discuss how the statistics / data science textbook publication model can be aligned with and utilize these best practices. The release of the RStudio Bookdown package facilitates this process. Through Bookdown, authors can publish reproducible and fully customizable textbooks that integrate markdown, code, visualizations, interactivity, and text. We will present first steps for authors of and users looking to adopt open source and open access textbooks, as well as existing examples ranging from an introductory textbook (ModernDive) to an advanced undergraduate textbook on Bayesian statistics.
+
+### Aligning Inference with the tidyverse: Development of the infer Package - Andrew Bray
+
+How do you teach your students to implement a permutation test? What about an analysis of variance? Do you focus on approximation techniques or utilize computational methods like the bootstrap? The infer package was created to unite these and other common statistical inference tasks into a single expressive framework that emphasizes their shared concepts. This talk will focus on the design principles of the package, which are firmly motivated by Hadley Wickham’s tidy tools manifesto. It will also discuss the implementation, centered on the common conceptual threads that link a wide range of hypothesis tests and confidence intervals. Finally, it will serve as a case study for anyone curious about developing an R package.
 
 ### Version Control: The Gain You Get For Your Pain - Jenny Bryan
 
