@@ -27,10 +27,17 @@ Slides and materials for JSM 2018 "An Emerging Ecosystem for Data Science/Statis
 
 * Jennifer Bryan
     + Affiliation: RStudio, University of British Columbia
+    
+* Garrett Grolemund
+    + Affiliation: RStudio
 
 
 
 ## Talks
+
+### Streamline your class with RStudio - Garrett Grolemund
+
+RStudio's free tools provide more than an ecosystem for doing data science; they provide an ecosystem for _teaching data science_. RStudio Cloud provides an easy to access compute environment that your students can use from minute one -- no downloads or installation required. You can use RStudio Cloud to create a shared class space stocked with projects to fork and data sets to use. Packed into RStudio Cloud is a curriculum of self-paced interactive tutorials that cover the basics of the Tidyverse, which frees you up to focus on teaching how to apply R to your subject area (the tutorials cover the same ground as _R for Data Science_ and are written by its authors). You can create your own interactive web tutorials with the learnr package, which transforms R Markdown documents into shiny apps that let students write, run, and submit their own code for feedback. Supporting all of this is the Tidyverse, a clear, coherent system for doing data science in R that is easy to teach and easy to use. This talk will provide a quickstart to using these tools as a foundation for your own data science course.
 
 ### Using Data to Drive Curriculum Development - Chester Ismay
 
