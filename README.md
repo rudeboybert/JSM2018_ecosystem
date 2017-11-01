@@ -1,36 +1,11 @@
 # JSM2018_ecosystem
 Slides and materials for JSM 2018 "An Emerging Ecosystem for Data Science/Statistics Education" Session. <http://bit.ly/2018JSM_ecosystem> redirects here.
 
-## Speaker Information
-
-* Session Chair: Albert Y. Kim
-    + Title: Assistant Professor of Statistical and Data Sciences
-    + Affiliation: Smith College, Northampton MA
-    + Email: <albert.ys.kim@gmail.com>
-    + Webpage: <http://rudeboybert.rbind.io/>
-    + GitHub: <https://github.com/rudeboybert>
-    + Twitter: <https://twitter.com/rudeboybert>
-    
-* Chester Ismay
-    + Title: Data Science Curriculum Lead
-    + Affiliation: DataCamp (headquarters in New York City, based in Portland, OR)
-    + Email: <chester@datacamp.com>
-    + Webpage: <https://chester.rbind.io>
-    + GitHub: <https://github.com/ismayc>
-    + Twitter: <https://twitter.com/old_man_chester>
-
-* Alicia Johnson
-    + Affiliation: Macalester College
-
-* Andrew Bray
-    + Affiliation: Reed College
-
-* Jennifer Bryan
-    + Affiliation: RStudio, University of British Columbia
-
-
-
 ## Talks
+
+### Streamline your class with RStudio - Garrett Grolemund
+
+RStudio's free tools provide more than an ecosystem for doing data science; they provide an ecosystem for _teaching data science_. RStudio Cloud provides an easy to access compute environment that your students can use from minute one -- no downloads or installation required. You can use RStudio Cloud to create a shared class space stocked with projects to fork and data sets to use. Packed into RStudio Cloud is a curriculum of self-paced interactive tutorials that cover the basics of the Tidyverse, which frees you up to focus on teaching how to apply R to your subject area (the tutorials cover the same ground as _R for Data Science_ and are written by its authors). You can create your own interactive web tutorials with the learnr package, which transforms R Markdown documents into shiny apps that let students write, run, and submit their own code for feedback. Supporting all of this is the Tidyverse, a clear, coherent system for doing data science in R that is easy to teach and easy to use. This talk will provide a quickstart to using these tools as a foundation for your own data science course.
 
 ### Using Data to Drive Curriculum Development - Chester Ismay
 
@@ -47,3 +22,54 @@ How do you teach your students to implement a permutation test? What about an an
 ### Version Control: The Gain You Get For Your Pain - Jenny Bryan
 
 Version control is a system for managing the evolution of a set of files across different people, computers, and time. Its roots are in software development, but it is increasingly important in both the practice and teaching of data science. I'll give an accessible description of what version control is and what it feels like to use it. We'll compare and contrast this to alternatives such as collaboration via Google Drive. Version control is important for educators for at least two reasons. First, it facilitates the exchange of code-rich documents between instructor and student. Second, it is a valid learning objective in and of itself, since version control is widely used by potential employers. I'll provide general information, as well as specifics relevant to the statistical programming environment R, the RStudio IDE, Git, and the GitHub hosting service.
+
+
+
+## Speaker Information
+
+* Session Chair: Albert Y. Kim
+    + Title: Assistant Professor of Statistical and Data Sciences
+    + Affiliation: Smith College, Northampton MA
+    + Email: <albert.ys.kim@gmail.com>
+    + Webpage: <http://rudeboybert.rbind.io/>
+    + GitHub: <https://github.com/rudeboybert>
+    + Twitter: <https://twitter.com/rudeboybert>
+
+* Garrett Grolemund
+    + Title: Data Scientist
+    + Affiliation: RStudio
+    + Email: <garrett@rstudio.com>
+    + GitHub: <https://github.com/garrettgman>
+    + Twitter: <https://twitter.com/statgarrett>
+
+* Chester Ismay
+    + Title: Data Science Curriculum Lead
+    + Affiliation: DataCamp (headquarters in New York City, based in Portland, OR)
+    + Email: <chester@datacamp.com>
+    + Webpage: <https://chester.rbind.io>
+    + GitHub: <https://github.com/ismayc>
+    + Twitter: <https://twitter.com/old_man_chester>
+
+* Alicia Johnson
+    + Title: Associate Professor of Statistics
+    + Affiliation: Macalester College
+    + Email: <ajohns24@macalester.edu >
+    + Webpage: <http://aliciajohnson78.weebly.com/>
+    + GitHub: <https://github.com/ajohns24>
+    + Twitter:
+
+* Andrew Bray
+    + Title: Assistant Professor of Statistics
+    + Affiliation: Reed College
+    + Email: <https://andrewpbray.github.io/>
+    + Webpage: <https://andrewpbray.github.io/>
+    + GitHub: <https://github.com/andrewpbray>
+    + Twitter:
+
+* Jennifer Bryan
+    + Title:
+    + Affiliation: RStudio, University of British Columbia
+    + Email: <jenny@rstudio.com>
+    + Webpage:
+    + GitHub: <https://github.com/jennybc>
+    + Twitter: <https://twitter.com/JennyBryan>
