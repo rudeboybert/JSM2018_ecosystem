@@ -59,7 +59,7 @@ The shortened URL [bit.ly/JSM\_2018](https://bit.ly/JSM_2018) redirects here. <!
 [(Slides)](Kim/README.md)
 
 -   Albert Y. Kim - Assistant Professor of Statistical & Data Sciences at Smith College, Northampton MA
--   Email: <albert.ys.kim@gmail.com>
+-   Email: <akim04@smith.edu>
 -   Webpage: <http://rudeboybert.rbind.io/>
 -   GitHub: [rudeboybert](https://github.com/rudeboybert)
 -   Twitter: [@rudeboybert](https://twitter.com/rudeboybert)
