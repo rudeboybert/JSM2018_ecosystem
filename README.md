@@ -38,9 +38,9 @@ the RStudio IDE, Git, and the GitHub hosting service.
 
 ### 2:25 PM Using Data to Drive Curriculum Development — Chester Ismay, DataCamp
 
-[(Slides)](Ismay/ismay_data-driven-curriculum-development.pdf) Data
-science is a relatively new and fast-changing field that borrows from
-many disciplines, which makes it hard to define and even harder to
+[(Slides)](https://github.com/rudeboybert/JSM2018_ecosystem/raw/master/Ismay/ismay_data-driven-curriculum-development.pdf)
+Data science is a relatively new and fast-changing field that borrows
+from many disciplines, which makes it hard to define and even harder to
 teach. Having now trained over 1.5 million (aspiring) data scientists,
 we at DataCamp aim to equip our students with the tools and skills
 needed to operate effectively in the data science field. For this
