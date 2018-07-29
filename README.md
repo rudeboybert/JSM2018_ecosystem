@@ -54,8 +54,8 @@ sets that are in demand for the 21st century data scientist. DataCamp is
 among the first to focus on using large amounts of data and
 corresponding analyses to help drive data science curriculum.
 
-  - Chester Ismay - Data Science Curriculum Lead at DataCamp
-    (headquarters in New York City, based in Portland, OR)
+  - Chester Ismay - Senior Curriculum Lead at DataCamp (headquarters in
+    New York City, based in Portland, OR)
   - Email: <chester@datacamp.com>
   - Webpage: <http://chester.rbind.io/>
   - GitHub: [ismayc](https://github.com/ismayc)
@@ -132,8 +132,6 @@ own data science course.
   - Twitter: [@statgarrett](https://twitter.com/statgarrett)
 
 ### 3:45 PM Floor Discussion - Albert Y. Kim, Smith College
-
-[(Slides)](Kim/README.md)
 
   - Albert Y. Kim - Assistant Professor of Statistical & Data Sciences
     at Smith College, Northampton MA
