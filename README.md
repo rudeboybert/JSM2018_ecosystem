@@ -14,19 +14,20 @@ here.
 
 ### 2:05 PM Version Control: The Gain You Get for Your Pain — Jennifer Bryan, RStudio, University of British Columbia
 
-(Slides) Version control is a system for managing the evolution of a set
-of files across different people, computers, and time. Its roots are in
-software development, but it is increasingly important in both the
-practice and teaching of data science. I’ll give an accessible
-description of what version control is and what it feels like to use it.
-We’ll compare and contrast this to alternatives such as collaboration
-via Google Drive. Version control is important for educators for at
-least two reasons. First, it facilitates the exchange of code-rich
-documents between instructor and student. Second, it is a valid learning
-objective in and of itself, since version control is widely used by
-potential employers. I’ll provide general information, as well as
-specifics relevant to the statistical programming environment R, the
-RStudio IDE, Git, and the GitHub hosting service.
+(Slides: [PDF](Bryan/bryan-jsm-version-control.pdf)) Version control is
+a system for managing the evolution of a set of files across different
+people, computers, and time. Its roots are in software development, but
+it is increasingly important in both the practice and teaching of data
+science. I’ll give an accessible description of what version control is
+and what it feels like to use it. We’ll compare and contrast this to
+alternatives such as collaboration via Google Drive. Version control is
+important for educators for at least two reasons. First, it facilitates
+the exchange of code-rich documents between instructor and student.
+Second, it is a valid learning objective in and of itself, since version
+control is widely used by potential employers. I’ll provide general
+information, as well as specifics relevant to the statistical
+programming environment R, the RStudio IDE, Git, and the GitHub hosting
+service.
 
   - Jennifer Bryan - Software Engineer at RStudio, on leave from the
     University of British Columbia
