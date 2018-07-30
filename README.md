@@ -111,22 +111,23 @@ case study for anyone curious about developing an R package.
 
 ### 3:25 PM Streamline Your Class with RStudio — Garrett Grolemund, RStudio Inc.
 
-(Slides) RStudio’s free tools provide more than an ecosystem for doing
-data science; they provide an ecosystem for *teaching data science*.
-RStudio Cloud provides an easy to access compute environment that your
-students can use from minute one – no downloads or installation
-required. You can use RStudio Cloud to create a shared class space
-stocked with projects to fork and data sets to use. Packed into RStudio
-Cloud is a curriculum of self-paced interactive tutorials that cover the
-basics of the Tidyverse, which frees you up to focus on teaching how to
-apply R to your subject area (the tutorials cover the same ground as *R
-for Data Science* and are written by its authors). You can create your
-own interactive web tutorials with the learnr package, which transforms
-R Markdown documents into shiny apps that let students write, run, and
-submit their own code for feedback. Supporting all of this is the
-Tidyverse, a clear, coherent system for doing data science in R that is
-easy to teach and easy to use. This talk will provide a quickstart to
-using these tools as a foundation for your own data science course.
+(Slides: [PDF](Grolemund/JSM-2018.pdf)) RStudio’s free tools provide
+more than an ecosystem for doing data science; they provide an ecosystem
+for *teaching data science*. RStudio Cloud provides an easy to access
+compute environment that your students can use from minute one – no
+downloads or installation required. You can use RStudio Cloud to create
+a shared class space stocked with projects to fork and data sets to use.
+Packed into RStudio Cloud is a curriculum of self-paced interactive
+tutorials that cover the basics of the Tidyverse, which frees you up to
+focus on teaching how to apply R to your subject area (the tutorials
+cover the same ground as *R for Data Science* and are written by its
+authors). You can create your own interactive web tutorials with the
+learnr package, which transforms R Markdown documents into shiny apps
+that let students write, run, and submit their own code for feedback.
+Supporting all of this is the Tidyverse, a clear, coherent system for
+doing data science in R that is easy to teach and easy to use. This talk
+will provide a quickstart to using these tools as a foundation for your
+own data science course.
 
   - Garrett Grolemund - Data Scientist at RStudio
   - Email: <garrett@rstudio.com>
