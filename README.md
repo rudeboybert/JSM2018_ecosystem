@@ -14,19 +14,20 @@ here.
 
 ### 2:05 PM Version Control: The Gain You Get for Your Pain — Jennifer Bryan, RStudio, University of British Columbia
 
-(Slides) Version control is a system for managing the evolution of a set
-of files across different people, computers, and time. Its roots are in
-software development, but it is increasingly important in both the
-practice and teaching of data science. I’ll give an accessible
-description of what version control is and what it feels like to use it.
-We’ll compare and contrast this to alternatives such as collaboration
-via Google Drive. Version control is important for educators for at
-least two reasons. First, it facilitates the exchange of code-rich
-documents between instructor and student. Second, it is a valid learning
-objective in and of itself, since version control is widely used by
-potential employers. I’ll provide general information, as well as
-specifics relevant to the statistical programming environment R, the
-RStudio IDE, Git, and the GitHub hosting service.
+(Slides: [PDF](Bryan/bryan-jsm-version-control.pdf)) Version control is
+a system for managing the evolution of a set of files across different
+people, computers, and time. Its roots are in software development, but
+it is increasingly important in both the practice and teaching of data
+science. I’ll give an accessible description of what version control is
+and what it feels like to use it. We’ll compare and contrast this to
+alternatives such as collaboration via Google Drive. Version control is
+important for educators for at least two reasons. First, it facilitates
+the exchange of code-rich documents between instructor and student.
+Second, it is a valid learning objective in and of itself, since version
+control is widely used by potential employers. I’ll provide general
+information, as well as specifics relevant to the statistical
+programming environment R, the RStudio IDE, Git, and the GitHub hosting
+service.
 
   - Jennifer Bryan - Software Engineer at RStudio, on leave from the
     University of British Columbia
@@ -89,17 +90,18 @@ an advanced undergraduate textbook on Bayesian statistics.
 
 ### 3:05 PM Aligning Inference with the Tidyverse: Development of the Infer Package — Andrew Bray, Reed College
 
-(Slides) How do you teach your students to implement a permutation test?
-What about an analysis of variance? Do you focus on approximation
-techniques or utilize computational methods like the bootstrap? The
-infer package was created to unite these and other common statistical
-inference tasks into a single expressive framework that emphasizes their
-shared concepts. This talk will focus on the design principles of the
-package, which are firmly motivated by Hadley Wickham’s tidy tools
-manifesto. It will also discuss the implementation, centered on the
-common conceptual threads that link a wide range of hypothesis tests and
-confidence intervals. Finally, it will serve as a case study for anyone
-curious about developing an R package.
+(Slides: [PDF](Bray/infer-jsm-2018.pdf),
+[Keynote](Bray/infer-jsm-2018.key)) How do you teach your students to
+implement a permutation test? What about an analysis of variance? Do you
+focus on approximation techniques or utilize computational methods like
+the bootstrap? The infer package was created to unite these and other
+common statistical inference tasks into a single expressive framework
+that emphasizes their shared concepts. This talk will focus on the
+design principles of the package, which are firmly motivated by Hadley
+Wickham’s tidy tools manifesto. It will also discuss the implementation,
+centered on the common conceptual threads that link a wide range of
+hypothesis tests and confidence intervals. Finally, it will serve as a
+case study for anyone curious about developing an R package.
 
   - Andrew Bray - Assistant Professor of Statistics at Reed College
   - Email: <https://andrewpbray.github.io/>
