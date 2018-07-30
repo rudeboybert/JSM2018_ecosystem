@@ -38,7 +38,8 @@ the RStudio IDE, Git, and the GitHub hosting service.
 
 ### 2:25 PM Using Data to Drive Curriculum Development — Chester Ismay, DataCamp
 
-[(Slides)](Ismay/ismay_data-driven-curriculum-development.pdf) Data
+(Slides: [PDF](Ismay/ismay_data-driven-curriculum-development.pdf),
+[Power Point](Ismay/ismay_data-driven-curriculum-development.pptx)) Data
 science is a relatively new and fast-changing field that borrows from
 many disciplines, which makes it hard to define and even harder to
 teach. Having now trained over 1.5 million (aspiring) data scientists,
@@ -64,14 +65,15 @@ corresponding analyses to help drive data science curriculum.
 
 ### 2:45 PM Authoring and Utilizing Open Source, Reproducible Statistics/Data Science Textbooks — Alicia Johnson, Macalester College
 
-[(Slides)](Johnson/README.md) Open source, open access, and reproducible
-materials are essential to the modern practice of statistics and data
-science. Combined, these provide (free\!) code, data, and software that
-users can directly implement, modify, and use to verify findings. In
-this talk we will discuss how the statistics / data science textbook
-publication model can align with and utilize these best practices. The
-release of the RStudio Bookdown package facilitates this process.
-Through Bookdown, authors can publish reproducible and fully
+(Slides: [PDF](Johnson/Alicia%20Johnson%20JSM%202018%20.pdf), [Power
+Point](Johnson/Alicia%20Johnson%20JSM%202018%20.pptx)) Open source, open
+access, and reproducible materials are essential to the modern practice
+of statistics and data science. Combined, these provide (free\!) code,
+data, and software that users can directly implement, modify, and use to
+verify findings. In this talk we will discuss how the statistics / data
+science textbook publication model can align with and utilize these best
+practices. The release of the RStudio Bookdown package facilitates this
+process. Through Bookdown, authors can publish reproducible and fully
 customizable textbooks that integrate markdown, code, visualizations,
 interactivity, and text. We will present first steps for authors of and
 users looking to adopt open source and open access textbooks, as well as
