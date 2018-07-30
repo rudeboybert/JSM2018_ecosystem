@@ -31,7 +31,7 @@ RStudio IDE, Git, and the GitHub hosting service.
   - Jennifer Bryan - Software Engineer at RStudio, on leave from the
     University of British Columbia
   - Email: <jenny@rstudio.com>
-  - Webpage: <https://www.stat.ubc.ca/~jenny/>
+  - Webpage: <https://jennybryan.org>
   - GitHub: [jennybc](https://github.com/jennybc)
   - Twitter:
 [@JennyBryan](https://twitter.com/JennyBryan)
