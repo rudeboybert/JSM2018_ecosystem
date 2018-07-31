@@ -34,8 +34,10 @@ service.
   - Email: <jenny@rstudio.com>
   - Webpage: <https://jennybryan.org>
   - GitHub: [jennybc](https://github.com/jennybc)
-  - Twitter:
-[@JennyBryan](https://twitter.com/JennyBryan)
+  - Twitter: [@JennyBryan](https://twitter.com/JennyBryan)
+  - **Suggested simple action item to get started**: Take a simple but
+    real project and try to put it on GitHub; just dip your toe in the
+    water
 
 ### 2:25 PM Using Data to Drive Curriculum Development — Chester Ismay, DataCamp
 
@@ -61,8 +63,10 @@ corresponding analyses to help drive data science curriculum.
   - Email: <chester@datacamp.com>
   - Webpage: <http://chester.rbind.io/>
   - GitHub: [ismayc](https://github.com/ismayc)
-  - Twitter:
-[@old\_man\_chester](https://twitter.com/old_man_chester)
+  - Twitter: [@old\_man\_chester](https://twitter.com/old_man_chester)
+  - **Suggested simple action item to get started**: The best way to
+    learn GitHub is to go fix a typo. You can even do this in the
+    browser.
 
 ### 2:45 PM Authoring and Utilizing Open Source, Reproducible Statistics/Data Science Textbooks — Alicia Johnson, Macalester College
 
@@ -85,8 +89,10 @@ an advanced undergraduate textbook on Bayesian statistics.
     College
   - Email: <ajohns24@macalester.edu>
   - Webpage: <http://aliciajohnson78.weebly.com/>
-  - GitHub:
-[ajohns24](https://github.com/ajohns24)
+  - GitHub: [ajohns24](https://github.com/ajohns24)
+  - **Suggested simple action item to get started**: Pick one project
+    that you’re writing right now and convert it to
+`bookdown`.
 
 ### 3:05 PM Aligning Inference with the Tidyverse: Development of the Infer Package — Andrew Bray, Reed College
 
@@ -106,8 +112,12 @@ case study for anyone curious about developing an R package.
   - Andrew Bray - Assistant Professor of Statistics at Reed College
   - Email: <https://andrewpbray.github.io/>
   - Webpage: <https://andrewpbray.github.io/>
-  - GitHub:
-[andrewpbray](https://github.com/andrewpbray)
+  - GitHub: [andrewpbray](https://github.com/andrewpbray)
+  - **Suggested simple action item to get started**: If you’re
+    comfortable with R and may be thinking about package development,
+    specifically contributing to the `tidyverse`, watch Mara Averick’s
+    rstudio::conf talk [Contributing to tidyverse
+    packages](https://www.rstudio.com/resources/videos/contributing-to-tidyverse-packages/).
 
 ### 3:25 PM Streamline Your Class with RStudio — Garrett Grolemund, RStudio Inc.
 
@@ -133,6 +143,8 @@ own data science course.
   - Email: <garrett@rstudio.com>
   - GitHub: [garrettgman](https://github.com/garrettgman)
   - Twitter: [@statgarrett](https://twitter.com/statgarrett)
+  - **Suggested simple action item to get started**: Go to
+    <https://rstudio.cloud/>, login, and read the guide.
 
 ### 3:45 PM Floor Discussion - Albert Y. Kim, Smith College
 
